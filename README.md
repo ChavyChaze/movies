@@ -32,5 +32,4 @@ Development (Webpack dev server) mode:
 npm run start:dev
 ```
 ##Comments
-```I'm start to make front-end, but I lost to much time for it, so I just test user methods 
-```
+I'm start to make front-end, but I lost to much time for it, so I just test user methods 
